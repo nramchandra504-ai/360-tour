@@ -177,7 +177,8 @@ Replace with your preferred license or let me know which license you'd like and 
 ---
 
 ## Contact
-Maintainer: seshasai164 (GitHub username)
+Maintainer : osmania
+
 
 If you'd like, I can:
 - generate example scene JSON and sample panoramas (placeholders),
